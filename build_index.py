@@ -27,7 +27,7 @@ def main():
             
     # 落地为 JSON
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        json.dump(index_dict, f, ensure_ascii=False, separators=(',', ':'))
+        json.dump(index_dict, f, ensure_ascii=False, separators=(',', ':'), sort_keys=True)
         
     print(f"Success! Indexed {len(index_dict)} subtitle files.")
 
