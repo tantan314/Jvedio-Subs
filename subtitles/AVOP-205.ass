@@ -1,0 +1,315 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: avop-205
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 640
+PlayResY: 360
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,KaiTi,22,&H00FFFFFF,&H000000FF,&H0061061A,&H00000000,0,0,0,0,100,100,1,0,1,1,0,2,10,10,10,1
+Style: INTRO,KaiTi,20,&H00F93561,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,1,0,1,4,1,3,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:49.29,0:01:57.73,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}四个极品辣妹真诱人掏棒狂插干到爽
+Dialogue: 0,0:47:57.77,0:48:02.46,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}喜欢润滑液？
+Dialogue: 0,0:48:02.60,0:48:05.89,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}喜欢
+Dialogue: 0,0:48:06.01,0:48:11.97,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}润滑液湿湿的舒服吧
+Dialogue: 0,0:48:14.62,0:48:20.77,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}今天啊三人一起舒服吧
+Dialogue: 0,0:48:21.09,0:48:24.08,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}今天会射一堆吧
+Dialogue: 0,0:48:27.06,0:48:31.32,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}憋了几天呢
+Dialogue: 0,0:48:33.53,0:48:36.09,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}一礼拜吗
+Dialogue: 0,0:48:37.74,0:48:40.93,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好期待
+Dialogue: 0,0:48:41.84,0:48:50.90,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}睾丸里积的全部帮你挤出来
+Dialogue: 0,0:49:25.72,0:49:29.34,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好湿喔
+Dialogue: 0,0:49:39.33,0:49:44.19,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}弄很湿好吗
+Dialogue: 0,0:49:57.32,0:50:00.47,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好舒服喔
+Dialogue: 0,0:50:22.51,0:50:27.06,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好棒 大奶子
+Dialogue: 0,0:50:27.78,0:50:31.94,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}润滑液湿答答？
+Dialogue: 0,0:50:32.09,0:50:34.91,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}顶到也知道唷
+Dialogue: 0,0:50:44.03,0:50:47.96,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}给我润滑液
+Dialogue: 0,0:50:48.37,0:50:53.63,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}想要一堆？给我
+Dialogue: 0,0:51:09.02,0:51:13.85,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}润滑夜湿答答的
+Dialogue: 0,0:51:46.03,0:51:49.02,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}很舒服的样子
+Dialogue: 0,0:51:51.33,0:51:55.92,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}用小穴顶着
+Dialogue: 0,0:52:02.44,0:52:07.13,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}小穴顶着喔
+Dialogue: 0,0:52:17.69,0:52:21.45,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}阴蒂顶到了吗
+Dialogue: 0,0:52:24.07,0:52:27.36,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好棒
+Dialogue: 0,0:52:37.35,0:52:42.74,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}这里 变热了
+Dialogue: 0,0:52:50.06,0:52:54.11,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}睾丸憋一礼拜啊
+Dialogue: 0,0:52:58.57,0:53:02.32,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}变大了唷
+Dialogue: 0,0:53:07.71,0:53:13.50,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}不用忍耐唷 淫叫吧
+Dialogue: 0,0:53:17.59,0:53:21.07,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}可以射唷
+Dialogue: 0,0:53:40.47,0:53:44.80,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}我看肉棒
+Dialogue: 0,0:54:13.51,0:54:16.50,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}小穴舒服？
+Dialogue: 0,0:54:27.02,0:54:29.88,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}硬梆梆的
+Dialogue: 0,0:55:00.42,0:55:04.14,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}想要奶子了吧
+Dialogue: 0,0:55:06.56,0:55:09.95,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}奢侈吧
+Dialogue: 0,0:55:10.10,0:55:12.85,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}如何
+Dialogue: 0,0:55:19.34,0:55:26.53,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}奶头顶着好舒服
+Dialogue: 0,0:55:28.48,0:55:31.91,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}我也舒服喔
+Dialogue: 0,0:56:01.18,0:56:04.30,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}很爽样子的屁股
+Dialogue: 0,0:56:13.06,0:56:15.75,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}屁眼也看光了唷
+Dialogue: 0,0:56:17.77,0:56:20.06,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}真的耶都看光了
+Dialogue: 0,0:56:20.20,0:56:25.46,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好丢脸的姿势
+Dialogue: 0,0:56:28.41,0:56:31.60,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}看不到吧
+Dialogue: 0,0:58:24.93,0:58:28.72,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}屁眼都看光光
+Dialogue: 0,0:58:49.88,0:58:52.17,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}快射了
+Dialogue: 0,0:59:30.59,0:59:34.21,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}更舒服吧
+Dialogue: 0,1:00:13.17,1:00:16.79,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}忍耐吧
+Dialogue: 0,1:00:26.65,1:00:31.51,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}怎么了 射了吗
+Dialogue: 0,1:00:31.85,1:00:35.37,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}还没还没
+Dialogue: 0,1:00:57.54,1:01:00.66,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}可以舔吧
+Dialogue: 0,1:01:33.18,1:01:36.40,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}最喜欢奶头吗
+Dialogue: 0,1:03:34.20,1:03:38.22,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}想舔小穴吧
+Dialogue: 0,1:05:01.49,1:05:05.08,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}射了
+Dialogue: 0,1:05:29.42,1:05:35.24,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}帮你摩擦
+Dialogue: 0,1:06:11.16,1:06:14.31,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}肉棒好吃？
+Dialogue: 0,1:06:59.54,1:07:03.13,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}受不了了？
+Dialogue: 0,1:07:03.28,1:07:05.96,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}受不了了
+Dialogue: 0,1:08:00.47,1:08:04.59,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}去了吗
+Dialogue: 0,1:08:13.55,1:08:18.63,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好想被这肉棒插
+Dialogue: 0,1:09:17.61,1:09:20.64,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}再一次唷
+Dialogue: 0,1:10:32.92,1:10:37.44,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}吃这个好吗
+Dialogue: 0,1:10:38.12,1:10:40.21,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}插入唷
+Dialogue: 0,1:10:41.23,1:10:45.28,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}肉棒干进来唷
+Dialogue: 0,1:10:46.80,1:10:50.02,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好热喔
+Dialogue: 0,1:11:08.29,1:11:11.75,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}小穴热吧
+Dialogue: 0,1:13:17.85,1:13:20.74,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好舒服唷
+Dialogue: 0,1:13:59.16,1:14:03.38,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}跑出来了
+Dialogue: 0,1:15:01.75,1:15:04.11,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好唷 射吧
+Dialogue: 0,1:15:11.00,1:15:15.55,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好唷 射吧
+Dialogue: 0,1:15:20.34,1:15:23.49,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}不行 要射了
+Dialogue: 0,1:15:25.91,1:15:31.27,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}不行 要射了\N好唷 射吧
+Dialogue: 0,1:15:56.24,1:16:04.07,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好棒 射好多
+Dialogue: 0,1:16:27.27,1:16:30.83,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}让我休息
+Dialogue: 0,1:16:38.32,1:16:42.04,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好痒
+Dialogue: 0,1:16:42.19,1:16:46.28,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}刚射的时候痒得不行
+Dialogue: 0,1:16:50.43,1:16:54.15,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}全射了 还有
+Dialogue: 0,1:16:54.30,1:16:57.92,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}睾丸胀胀的
+Dialogue: 0,1:16:58.07,1:17:02.36,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}肉棒还硬梆梆的唷
+Dialogue: 0,1:17:04.91,1:17:08.17,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}不要吗
+Dialogue: 0,1:17:44.52,1:17:48.78,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}都开了唷
+Dialogue: 0,1:18:01.53,1:18:05.05,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好低级
+Dialogue: 0,1:18:49.18,1:18:54.14,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}全部快干进去了
+Dialogue: 0,1:19:22.08,1:19:25.11,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}爽吗？
+Dialogue: 0,1:19:35.19,1:19:38.31,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}这肉棒要去了
+Dialogue: 0,1:20:09.90,1:20:13.08,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}胀胀的睾丸
+Dialogue: 0,1:20:23.28,1:20:27.20,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}被舔睾丸好吗
+Dialogue: 0,1:21:00.25,1:21:02.80,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}不讨厌吧
+Dialogue: 0,1:23:36.17,1:23:39.46,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}低级？
+Dialogue: 0,1:24:17.14,1:24:20.69,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好爽
+Dialogue: 0,1:25:19.71,1:25:22.83,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}还能射吧
+Dialogue: 0,1:25:25.14,1:25:28.07,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}对吧
+Dialogue: 0,1:25:31.88,1:25:36.01,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}射小穴里
+Dialogue: 0,1:25:57.01,1:26:00.84,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}射了
+Dialogue: 0,1:26:19.16,1:26:23.19,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}比刚才多
+Dialogue: 0,1:26:24.67,1:26:27.46,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好热
+Dialogue: 0,1:26:30.64,1:26:35.73,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}积了好多
+Dialogue: 0,1:26:35.88,1:26:38.88,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好爽
+Dialogue: 0,1:28:34.40,1:28:36.95,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好吗？
+Dialogue: 0,1:28:53.59,1:28:56.08,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好唷
+Dialogue: 0,1:29:29.39,1:29:31.85,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好唷
+Dialogue: 0,1:29:48.11,1:29:51.07,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}我也要
+Dialogue: 0,1:30:27.35,1:30:29.64,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}肉棒还可以吧
+Dialogue: 0,1:30:29.78,1:30:32.71,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}不行了啦
+Dialogue: 0,1:30:33.19,1:30:37.24,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}还要干吗？ 还要干唷
+Dialogue: 0,1:30:50.00,1:30:54.47,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}不行啦 不行唷
+Dialogue: 0,1:30:56.84,1:30:59.56,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好害羞喔
+Dialogue: 0,1:32:11.25,1:32:15.75,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}我的吻超棒的吧
+Dialogue: 0,1:32:21.79,1:32:24.65,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}换这边
+Dialogue: 0,1:32:37.28,1:32:39.30,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}棒吧
+Dialogue: 0,1:32:52.49,1:32:54.45,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}舒服？
+Dialogue: 0,1:33:35.90,1:33:40.56,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}喜欢亲亲？
+Dialogue: 0,1:33:47.58,1:33:51.80,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}都是我的口水吧
+Dialogue: 0,1:33:52.15,1:33:56.20,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}很软吧
+Dialogue: 0,1:34:00.69,1:34:04.31,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}谁比较好 来比赛吧
+Dialogue: 0,1:34:04.46,1:34:06.05,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好唷
+Dialogue: 0,1:34:06.20,1:34:12.46,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}知道吗 要比赛唷
+Dialogue: 0,1:34:49.17,1:34:53.47,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}很害羞样子的脸好可爱
+Dialogue: 0,1:34:59.99,1:35:02.10,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}让我舔
+Dialogue: 0,1:35:10.16,1:35:14.16,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}肉棒变硬了唷
+Dialogue: 0,1:35:21.07,1:35:23.73,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}这湿湿的是什么
+Dialogue: 0,1:35:23.88,1:35:25.93,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好害羞
+Dialogue: 0,1:35:26.08,1:35:34.64,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}淫汁？抱歉
+Dialogue: 0,1:35:52.30,1:35:58.03,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}勃起的
+Dialogue: 0,1:36:12.79,1:36:18.65,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}这肉棒 往左弯吗
+Dialogue: 0,1:37:40.88,1:37:45.50,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}也让我舔
+Dialogue: 0,1:37:47.05,1:37:50.21,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好咸
+Dialogue: 0,1:39:32.49,1:39:34.45,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}舒服？
+Dialogue: 0,1:43:27.19,1:43:31.71,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}舒服吗
+Dialogue: 0,1:44:06.73,1:44:13.39,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好爽喔 肉棒被含爽了吗？
+Dialogue: 0,1:44:35.43,1:44:38.39,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}别停
+Dialogue: 0,1:44:50.71,1:44:52.33,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}要射了
+Dialogue: 0,1:44:52.48,1:44:54.27,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}不行
+Dialogue: 0,1:45:03.35,1:45:06.38,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}别射啦
+Dialogue: 0,1:45:13.66,1:45:16.02,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好爽
+Dialogue: 0,1:45:44.26,1:45:46.12,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}很爽吧
+Dialogue: 0,1:47:50.05,1:47:52.34,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好诈
+Dialogue: 0,1:48:19.08,1:48:21.17,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好棒
+Dialogue: 0,1:48:31.43,1:48:35.05,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好棒
+Dialogue: 0,1:49:48.44,1:49:53.03,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好诈喔
+Dialogue: 0,1:50:24.14,1:50:28.54,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}让我舔肉棒
+Dialogue: 0,1:50:29.65,1:50:34.97,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}小穴湿答答的了
+Dialogue: 0,1:50:39.56,1:50:43.28,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好好品尝吧
+Dialogue: 0,1:50:47.40,1:50:52.52,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}紧吧 好紧喔
+Dialogue: 0,1:50:54.44,1:50:56.97,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好爽
+Dialogue: 0,1:52:00.37,1:52:02.76,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好爽
+Dialogue: 0,1:52:53.86,1:52:55.94,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}不行
+Dialogue: 0,1:52:58.13,1:53:03.79,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}不行不行
+Dialogue: 0,1:53:47.48,1:53:52.64,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}这不行不行 好爽
+Dialogue: 0,1:54:46.90,1:54:49.23,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}不行
+Dialogue: 0,1:54:52.71,1:54:55.03,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}要射了
+Dialogue: 0,1:54:55.18,1:54:57.47,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}射了
+Dialogue: 0,1:55:08.36,1:55:12.29,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}射了
+Dialogue: 0,1:55:14.90,1:55:19.16,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}滴了唷
+Dialogue: 0,1:55:24.64,1:55:27.26,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}滴了
+Dialogue: 0,1:55:34.89,1:55:38.54,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}射了好多
+Dialogue: 0,1:56:05.72,1:56:08.07,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好棒
+Dialogue: 0,1:56:20.36,1:56:25.56,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}也干我吧
+Dialogue: 0,1:56:25.70,1:56:28.79,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}没办法了
+Dialogue: 0,1:56:28.94,1:56:31.56,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}没了
+Dialogue: 0,1:56:53.73,1:56:57.56,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}干我小穴吧
+Dialogue: 0,1:57:50.99,1:57:55.82,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}我还要精液
+Dialogue: 0,1:59:02.36,1:59:06.45,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}还不行
+Dialogue: 0,2:00:20.30,2:00:22.83,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}这肉棒
+Dialogue: 0,2:00:59.91,2:01:02.77,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好棒
+Dialogue: 0,2:01:19.70,2:01:22.32,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好爽喔
+Dialogue: 0,2:03:44.51,2:03:50.56,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}不行 别动别动 不行
+Dialogue: 0,2:03:58.15,2:04:01.65,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}换我被干了吧
+Dialogue: 0,2:05:04.89,2:05:07.04,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好爽
+Dialogue: 0,2:05:30.45,2:05:35.81,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好爽呢 爽吧
+Dialogue: 0,2:05:37.62,2:05:39.98,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}是我吧
+Dialogue: 0,2:06:04.38,2:06:06.41,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好爽
+Dialogue: 0,2:06:13.56,2:06:16.88,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}再动腰
+Dialogue: 0,2:06:31.91,2:06:36.10,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}爽吧 再干我
+Dialogue: 0,2:06:37.61,2:06:43.10,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好爽这里
+Dialogue: 0,2:07:07.04,2:07:10.47,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}再一次
+Dialogue: 0,2:07:52.89,2:07:57.39,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}小穴湿吧
+Dialogue: 0,2:08:16.21,2:08:23.41,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}干进小穴里
+Dialogue: 0,2:08:40.10,2:08:42.50,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好棒
+Dialogue: 0,2:09:27.35,2:09:30.44,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好爽
+Dialogue: 0,2:10:07.82,2:10:10.91,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}让我去
+Dialogue: 0,2:10:30.91,2:10:34.81,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}不行不行
+Dialogue: 0,2:11:32.41,2:11:35.84,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}换我了
+Dialogue: 0,2:11:47.79,2:11:51.75,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好诈
+Dialogue: 0,2:12:40.64,2:12:44.43,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}干我
+Dialogue: 0,2:12:45.68,2:12:48.80,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}这里好爽
+Dialogue: 0,2:12:56.13,2:12:59.68,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}要去了
+Dialogue: 0,2:13:14.34,2:13:17.74,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}射很多出来
+Dialogue: 0,2:14:54.91,2:14:57.13,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}射了一堆
+Dialogue: 0,2:15:05.55,2:15:08.81,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}给我精液
+Dialogue: 0,2:16:47.19,2:16:53.21,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}再多积点精液喔
+Dialogue: 0,2:17:15.62,2:17:19.48,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}来玩弄可爱男人吧
+Dialogue: 0,2:17:21.09,2:17:24.11,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}过来
+Dialogue: 0,2:17:29.67,2:17:31.82,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}积了几天了？
+Dialogue: 0,2:17:31.97,2:17:34.29,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}三周吧
+Dialogue: 0,2:17:34.44,2:17:36.02,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}三周吗
+Dialogue: 0,2:17:36.17,2:17:39.03,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}积很多耶
+Dialogue: 0,2:17:40.28,2:17:46.47,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}那今天要好好玩你
+Dialogue: 0,2:17:51.62,2:17:55.01,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}睾丸胀胀的？
+Dialogue: 0,2:18:13.74,2:18:19.71,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}很多肉棒汁？积了很多吗？
+Dialogue: 0,2:18:20.88,2:18:24.17,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}会变大吗？
+Dialogue: 0,2:18:26.12,2:18:30.41,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}已经变大了
+Dialogue: 0,2:18:33.53,2:18:36.46,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}喜欢这样吗？
+Dialogue: 0,2:18:36.90,2:18:39.93,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}爽吗
+Dialogue: 0,2:18:43.24,2:18:47.00,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}不不
+Dialogue: 0,2:18:56.79,2:19:00.82,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}会射 不行
+Dialogue: 0,2:19:00.96,2:19:03.18,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}太快了
+Dialogue: 0,2:19:06.90,2:19:10.62,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}看肉棒好吗
+Dialogue: 0,2:19:19.44,2:19:22.44,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}流汁了
+Dialogue: 0,2:19:23.81,2:19:28.83,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}帮你看看
+Dialogue: 0,2:19:34.89,2:19:39.08,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}流了好棒
+Dialogue: 0,2:19:39.23,2:19:44.06,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好棒好棒 骗人
+Dialogue: 0,2:19:48.64,2:19:51.83,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好棒啊这个
+Dialogue: 0,2:20:27.34,2:20:30.60,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}一起摩擦
+Dialogue: 0,2:20:50.20,2:20:53.02,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}睾丸也喜欢吗？
+Dialogue: 0,2:21:12.89,2:21:15.18,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}再来？
+Dialogue: 0,2:21:27.87,2:21:30.09,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}舒服？
+Dialogue: 0,2:22:55.66,2:22:58.19,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好可爱
+Dialogue: 0,2:22:58.33,2:23:00.25,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}射吗
+Dialogue: 0,2:23:00.40,2:23:02.69,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好唷 射吧
+Dialogue: 0,2:23:02.83,2:23:04.76,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}射了
+Dialogue: 0,2:23:13.18,2:23:18.97,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}睾丸变小了吗 但还好多
+Dialogue: 0,2:23:21.42,2:23:24.78,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}想再被舔？
+Dialogue: 0,2:23:43.54,2:23:46.56,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}不想干吗
+Dialogue: 0,2:23:46.71,2:23:53.21,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}爽吗肉棒爽？变态肉棒爽？
+Dialogue: 0,2:25:01.22,2:25:05.04,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}湿答答的吧
+Dialogue: 0,2:26:24.97,2:26:28.36,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}受不了了
+Dialogue: 0,2:26:56.03,2:27:00.22,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}说激烈一点
+Dialogue: 0,2:28:02.43,2:28:06.02,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}激烈的较好吗
+Dialogue: 0,2:28:24.59,2:28:26.20,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}爽吗？
+Dialogue: 0,2:28:31.26,2:28:33.72,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}要射？
+Dialogue: 0,2:28:33.86,2:28:35.45,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}射吧
+Dialogue: 0,2:28:43.81,2:28:47.80,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好棒第三次了唷
+Dialogue: 0,2:28:47.94,2:28:50.90,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}真棒耶
+Dialogue: 0,2:29:07.43,2:29:10.98,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}舒服？
+Dialogue: 0,2:30:06.32,2:30:10.72,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}还能射？
+Dialogue: 0,2:30:11.96,2:30:14.55,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}射一堆出来吧
+Dialogue: 0,2:32:33.07,2:32:39.83,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}射了好多好棒
+Dialogue: 0,2:32:39.97,2:32:42.20,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好棒
+Dialogue: 0,2:32:51.09,2:32:54.38,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}真棒啊
+Dialogue: 0,2:32:58.86,2:33:01.72,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}都是精液
+Dialogue: 0,2:34:51.57,2:34:55.97,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}摸奶子
+Dialogue: 0,2:35:12.39,2:35:16.45,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}爽吗
+Dialogue: 0,2:35:24.61,2:35:27.97,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}要射？
+Dialogue: 0,2:36:47.39,2:36:50.28,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好棒
+Dialogue: 0,2:37:04.14,2:37:07.26,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}过来这
+Dialogue: 0,2:37:08.14,2:37:11.30,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}还能射吧
+Dialogue: 0,2:37:13.72,2:37:18.24,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}再来吧
+Dialogue: 0,2:37:19.95,2:37:22.24,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}都看光了
+Dialogue: 0,2:37:26.39,2:37:30.25,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}屁眼收缩着唷
+Dialogue: 0,2:37:31.70,2:37:37.29,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}变态先生变态先生
+Dialogue: 0,2:37:37.44,2:37:40.90,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}喜欢被打？
+Dialogue: 0,2:37:41.31,2:37:44.20,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}屁眼都开了唷
+Dialogue: 0,2:37:44.35,2:37:47.20,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}真的耶再打开
+Dialogue: 0,2:37:47.35,2:37:48.91,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好棒
+Dialogue: 0,2:37:50.75,2:37:53.25,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好好吃的样子
+Dialogue: 0,2:37:55.36,2:37:58.11,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}舔好吗
+Dialogue: 0,2:38:08.07,2:38:11.36,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}伸进屁眼里
+Dialogue: 0,2:38:12.91,2:38:17.53,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}这里抖着
+Dialogue: 0,2:39:20.71,2:39:25.00,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}肉棒跟屁眼爽？
+Dialogue: 0,2:39:33.76,2:39:38.41,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}插入更爽吧
+Dialogue: 0,2:39:43.46,2:39:45.32,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}插入喔好吗
+Dialogue: 0,2:39:46.10,2:39:50.26,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好棒
+Dialogue: 0,2:39:52.34,2:39:57.39,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}手指插入了
+Dialogue: 0,2:40:00.41,2:40:03.17,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}爽吗？
+Dialogue: 0,2:40:12.43,2:40:16.82,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}自己抱着
+Dialogue: 0,2:40:24.81,2:40:27.20,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}如何
+Dialogue: 0,2:40:35.28,2:40:37.90,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好棒
+Dialogue: 0,2:40:51.63,2:40:54.39,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}如何
+Dialogue: 0,2:41:02.04,2:41:07.94,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好棒 吸进去了
+Dialogue: 0,2:41:14.39,2:41:18.15,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}为何这么变态呢
+Dialogue: 0,2:41:18.66,2:41:22.52,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}变态屁股小穴
+Dialogue: 0,2:41:33.88,2:41:40.34,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}连屁眼都被玩爽到肉棒抖不停
+Dialogue: 0,2:41:40.48,2:41:44.00,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}为何这么变态呢
+Dialogue: 0,2:42:04.04,2:42:07.83,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好棒
+Dialogue: 0,2:43:01.40,2:43:02.96,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}要舔？
+Dialogue: 0,2:43:12.71,2:43:17.70,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}想射几发啊
+Dialogue: 0,2:43:20.88,2:43:23.60,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}再来再来
+Dialogue: 0,2:43:56.65,2:44:01.77,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}睾丸会被榨干吧
+Dialogue: 0,2:44:03.29,2:44:07.12,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}帮你挤到一滴不剩
+Dialogue: 0,2:44:11.47,2:44:15.26,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}给我精液
+Dialogue: 0,2:44:24.05,2:44:27.97,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}让肉棒硬梆梆
+Dialogue: 0,2:45:28.31,2:45:31.17,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}要射？
+Dialogue: 0,2:46:15.82,2:46:18.65,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好浓
+Dialogue: 0,2:46:19.66,2:46:24.56,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}射几发了啊 还射这么浓 好棒
+Dialogue: 0,2:46:33.64,2:46:35.86,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}太多了
+Dialogue: 0,2:46:39.38,2:46:43.31,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}还要积着吗？
+Dialogue: 0,2:46:56.60,2:46:58.28,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}好吃
+Dialogue: 0,2:47:04.51,2:47:10.13,Default,,0,0,0010,,{\fn华文楷体\fs20\bord2\shad1\3c&H000000&\b1}再陪你玩吧
+
