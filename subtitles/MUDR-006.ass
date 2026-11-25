@@ -11,7 +11,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,华文琥珀,30,&H00ffffff,&H000000ff,&H00000000,&H00000000,0,0,0,0,100.00,100.00,0.00,0.00,1,2.00,2.00,2,10,10,10,1
 
 [Events]
-Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.48,0:00:10.89,Default,,0000,0000,0000,,（贞操观念木有-枪间洪延的日常-枪间一家的假日）
 Dialogue: 0,0:00:16.89,0:00:24.24,Default,,0000,0000,0000,,（第一话-枪间洪延的日常）
 Dialogue: 0,0:00:29.74,0:00:36.88,Default,,0000,0000,0000,,（凌洋-枪间满子）
@@ -596,3 +596,4 @@ Dialogue: 0,1:57:58.38,1:58:00.71,Default,,0000,0000,0000,,超优秀
 Dialogue: 0,1:58:02.09,1:58:08.67,Default,,0000,0000,0000,,（枪间一家的假日【完】）
 Dialogue: 0,1:58:08.67,1:58:27.12,Default,,0000,0000,0000,,字幕 qq761732719
 Dialogue: 0,1:58:27.12,1:58:29.12,Default,,0000,0000,0000,,
+
