@@ -1,0 +1,664 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,20,20,20,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:13.91,0:02:19.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我喜欢读书
+Dialogue: 0,0:02:20.18,0:02:27.09,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}因为读书可以让自己
+Dialogue: 0,0:02:27.42,0:02:30.18,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}从里面学到不知道的知识
+Dialogue: 0,0:02:31.51,0:02:37.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}就像书里面写的都再现了
+Dialogue: 0,0:02:39.79,0:02:41.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不如说
+Dialogue: 0,0:02:42.82,0:02:47.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}可以有很多想像
+Dialogue: 0,0:02:50.91,0:02:52.45,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}但是
+Dialogue: 0,0:02:57.36,0:03:02.51,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我也喜欢肉棒呢
+Dialogue: 0,0:03:03.39,0:03:09.76,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}用我的色情的胸
+Dialogue: 0,0:03:10.03,0:03:11.76,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}夹住
+Dialogue: 0,0:03:12.36,0:03:19.06,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}往里面也插进去 然后做爱
+Dialogue: 0,0:03:21.70,0:03:26.12,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}就连我在看书的时候
+Dialogue: 0,0:03:27.48,0:03:30.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}也一直在想着呢
+Dialogue: 0,0:03:32.76,0:03:39.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}特别是被我夹的肉棒
+Dialogue: 0,0:03:41.79,0:03:43.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我都非常喜欢呢
+Dialogue: 0,0:03:45.61,0:03:47.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好痒啊
+Dialogue: 0,0:03:48.39,0:03:51.36,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样回答着我
+Dialogue: 0,0:03:52.48,0:03:57.88,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}看到困扰的肉棒\N让我忍不住了
+Dialogue: 0,0:03:58.39,0:04:00.15,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}非常喜欢呢
+Dialogue: 0,0:04:02.70,0:04:04.42,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了呢
+Dialogue: 0,0:04:05.76,0:04:12.09,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我想想就已经受不了\N好想要肉棒
+Dialogue: 0,0:04:14.91,0:04:16.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我不行了
+Dialogue: 0,0:04:17.76,0:04:19.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}是不是变态呢
+Dialogue: 0,0:04:22.36,0:04:31.70,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你的肉棒我也会让塞进去
+Dialogue: 0,0:04:33.00,0:04:42.06,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}被文学系的巨乳姐姐\N拘束着连续来回抽插
+Dialogue: 0,0:07:07.09,0:07:10.06,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你是不是一直在看啊
+Dialogue: 0,0:07:12.67,0:07:14.61,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我没有看
+Dialogue: 0,0:07:15.82,0:07:17.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的吗
+Dialogue: 0,0:07:18.97,0:07:20.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我没有看啊
+Dialogue: 0,0:07:21.03,0:07:22.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我
+Dialogue: 0,0:07:26.48,0:07:29.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你觉得我的内衣怎么样啊
+Dialogue: 0,0:07:37.61,0:07:39.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不只内衣
+Dialogue: 0,0:07:43.67,0:07:45.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这边也是
+Dialogue: 0,0:07:48.09,0:07:50.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你有见过吗
+Dialogue: 0,0:07:51.33,0:07:52.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}没有呢
+Dialogue: 0,0:07:58.73,0:08:00.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}想要吗
+Dialogue: 0,0:08:02.73,0:08:04.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}过来吧
+Dialogue: 0,0:08:09.64,0:08:11.42,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这边可是图书馆
+Dialogue: 0,0:08:15.09,0:08:18.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}太大声会被周围的人
+Dialogue: 0,0:08:18.67,0:08:20.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}发现喔
+Dialogue: 0,0:08:30.97,0:08:33.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}摸了我的身体
+Dialogue: 0,0:08:34.15,0:08:37.18,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这边就变这样了呢
+Dialogue: 0,0:08:40.51,0:08:42.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}怎么会这样呢
+Dialogue: 0,0:08:49.24,0:08:51.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}变硬了吧
+Dialogue: 0,0:08:59.55,0:09:04.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这边看起来 不希望我停下
+Dialogue: 0,0:09:05.15,0:09:06.88,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}的感觉呢
+Dialogue: 0,0:09:16.82,0:09:18.45,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}变成
+Dialogue: 0,0:09:18.97,0:09:20.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这么大了喔
+Dialogue: 0,0:09:25.42,0:09:27.09,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好棒啊
+Dialogue: 0,0:09:53.58,0:09:55.18,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这么大
+Dialogue: 0,0:09:55.79,0:09:57.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}是因为看了我内衣
+Dialogue: 0,0:09:59.27,0:10:01.61,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}还是被我这样摸
+Dialogue: 0,0:10:34.85,0:10:36.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样的
+Dialogue: 0,0:10:37.06,0:10:38.97,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}很喜欢吧
+Dialogue: 0,0:11:19.12,0:11:24.88,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}是不是 这种情况\N会让你更加兴奋
+Dialogue: 0,0:11:25.61,0:11:28.12,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不是这样的
+Dialogue: 0,0:11:28.51,0:11:33.70,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}但是你看这边
+Dialogue: 0,0:11:34.12,0:11:35.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}都变成这样了
+Dialogue: 0,0:11:46.15,0:11:51.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}还有其他人\N不能发出大大的声音呢
+Dialogue: 0,0:12:13.21,0:12:16.36,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}要射了 是吗
+Dialogue: 0,0:12:16.51,0:12:19.27,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你就射吧
+Dialogue: 0,0:12:51.91,0:12:53.70,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}射了
+Dialogue: 0,0:13:24.64,0:13:28.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}在这种地方射了呢
+Dialogue: 0,0:13:29.48,0:13:31.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}但是
+Dialogue: 0,0:13:31.94,0:13:35.21,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}肉棒还是这么大呢
+Dialogue: 0,0:13:36.64,0:13:41.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不 那个 我\N还可以射吧
+Dialogue: 0,0:14:02.82,0:14:05.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}喜欢胸吗
+Dialogue: 0,0:14:14.09,0:14:15.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}是的
+Dialogue: 0,0:14:16.15,0:14:17.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}那么
+Dialogue: 0,0:14:18.30,0:14:20.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}给你看
+Dialogue: 0,0:14:24.64,0:14:27.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}摸吧 可以的喔
+Dialogue: 0,0:14:47.21,0:14:48.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}怎么样啊
+Dialogue: 0,0:15:43.88,0:15:47.15,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}身体跟肉棒
+Dialogue: 0,0:15:48.30,0:15:50.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}都已经很热了呢
+Dialogue: 0,0:15:53.61,0:15:55.97,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}因为在碰我的胸吧
+Dialogue: 0,0:15:57.00,0:16:00.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}还要变热吗
+Dialogue: 0,0:16:26.88,0:16:28.76,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好棒啊
+Dialogue: 0,0:17:21.12,0:17:25.51,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你就用这种怪模样 射出来吧
+Dialogue: 0,0:17:26.00,0:17:27.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}射吧
+Dialogue: 0,0:17:28.06,0:17:31.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}让我看看
+Dialogue: 0,0:17:47.94,0:17:53.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我不行了呢 射吧 射吧
+Dialogue: 0,0:17:58.73,0:18:00.51,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}射吧
+Dialogue: 0,0:18:17.91,0:18:19.58,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}射好多
+Dialogue: 0,0:18:23.70,0:18:25.70,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}做这种事情
+Dialogue: 0,0:18:26.18,0:18:28.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}兴奋了吗
+Dialogue: 0,0:18:31.45,0:18:33.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}还要射吗
+Dialogue: 0,0:18:34.88,0:18:36.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行
+Dialogue: 0,0:18:37.73,0:18:39.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}还可以吧
+Dialogue: 0,0:18:47.18,0:18:48.76,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}那么再次
+Dialogue: 0,0:18:51.27,0:18:52.76,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}在这边
+Dialogue: 0,0:18:53.88,0:18:55.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}让你舒服吧
+Dialogue: 0,0:18:57.36,0:18:59.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好棒啊
+Dialogue: 0,0:20:23.48,0:20:26.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你刚才就很吵啊
+Dialogue: 0,0:20:26.94,0:20:32.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我在看书 可以安静一点吗
+Dialogue: 0,0:20:45.09,0:20:51.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}谁叫你约好时间 却不遵守
+Dialogue: 0,0:20:52.06,0:20:53.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}怎么了啊
+Dialogue: 0,0:21:10.76,0:21:12.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你想我怎么办呢
+Dialogue: 0,0:21:15.12,0:21:17.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你想我怎么做呢
+Dialogue: 0,0:21:22.03,0:21:24.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这么害羞的姿势啊
+Dialogue: 0,0:21:25.88,0:21:27.88,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}开心吗
+Dialogue: 0,0:21:32.61,0:21:35.48,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}是吗 但是
+Dialogue: 0,0:21:40.18,0:21:43.76,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你这边看起来很开心呢
+Dialogue: 0,0:21:45.51,0:21:47.51,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不是吗
+Dialogue: 0,0:21:55.45,0:21:57.45,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这个是什么
+Dialogue: 0,0:21:58.82,0:22:02.88,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不是很硬吗
+Dialogue: 0,0:22:09.09,0:22:11.15,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你喜欢这样啊
+Dialogue: 0,0:22:12.12,0:22:14.12,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你是变态吗
+Dialogue: 0,0:22:17.36,0:22:22.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}叫你出来 让你被这样
+Dialogue: 0,0:22:23.82,0:22:28.15,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}被我放置 被我抚摸
+Dialogue: 0,0:22:32.51,0:22:34.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}却这么硬
+Dialogue: 0,0:22:36.79,0:22:39.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真是变态啊
+Dialogue: 0,0:22:40.51,0:22:43.48,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你都这么勃起了呢
+Dialogue: 0,0:22:47.30,0:22:51.21,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}那么我来
+Dialogue: 0,0:22:54.18,0:23:00.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我来帮变态的你 做更多事情吧
+Dialogue: 0,0:23:05.79,0:23:08.42,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样摸呢
+Dialogue: 0,0:23:13.15,0:23:15.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}爽吗
+Dialogue: 0,0:23:17.24,0:23:21.88,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这副模样 被这样子弄
+Dialogue: 0,0:23:24.55,0:23:28.45,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}肉棒变硬了呢
+Dialogue: 0,0:23:33.18,0:23:36.15,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你的身体有反应呢
+Dialogue: 0,0:23:37.45,0:23:39.42,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样呢
+Dialogue: 0,0:23:39.61,0:23:43.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}喜欢这样被玩弄吗
+Dialogue: 0,0:23:47.33,0:23:52.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样的 还是说这样的更好
+Dialogue: 0,0:23:54.51,0:23:56.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我要舔了哦
+Dialogue: 0,0:24:06.76,0:24:09.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}比较喜欢被舔吗
+Dialogue: 0,0:24:13.45,0:24:16.06,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}变成这样了呢
+Dialogue: 0,0:24:16.70,0:24:21.15,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}一边用手摸你一边舔
+Dialogue: 0,0:24:22.58,0:24:24.12,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}喜欢吗
+Dialogue: 0,0:24:29.24,0:24:31.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}喜欢被摸吗
+Dialogue: 0,0:24:38.09,0:24:40.09,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好棒啊
+Dialogue: 0,0:24:42.58,0:24:48.15,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这个变大的肉棒
+Dialogue: 0,0:24:48.85,0:24:55.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}想不想我直接摸呢
+Dialogue: 0,0:25:07.58,0:25:09.70,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这么的大
+Dialogue: 0,0:25:12.18,0:25:14.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}内裤上就能感觉到呢
+Dialogue: 0,0:25:20.12,0:25:25.21,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}那么我帮你脱掉吧
+Dialogue: 0,0:25:31.42,0:25:33.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这么大啊
+Dialogue: 0,0:25:44.15,0:25:48.97,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}变态的肉棒变得很热呢
+Dialogue: 0,0:25:50.21,0:25:52.27,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}像这样
+Dialogue: 0,0:25:53.82,0:25:55.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}用手指
+Dialogue: 0,0:25:57.45,0:25:59.27,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}抚摸
+Dialogue: 0,0:26:01.70,0:26:03.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}用手
+Dialogue: 0,0:26:05.97,0:26:08.36,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}握住
+Dialogue: 0,0:26:08.73,0:26:10.36,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}喜欢吗
+Dialogue: 0,0:26:12.73,0:26:21.27,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}还是喜欢这样摸呢
+Dialogue: 0,0:26:21.97,0:26:24.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}觉得爽吗
+Dialogue: 0,0:26:28.82,0:26:31.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}又发出色情的声音呢
+Dialogue: 0,0:26:33.79,0:26:37.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}那么我就这样了哦
+Dialogue: 0,0:26:43.94,0:26:50.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}被这样弄 肉棒更热了呢
+Dialogue: 0,0:26:52.09,0:26:57.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我这样用手玩弄 如何啊
+Dialogue: 0,0:27:02.09,0:27:05.12,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}慢慢变得热了呢
+Dialogue: 0,0:27:09.64,0:27:11.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样呢
+Dialogue: 0,0:27:12.55,0:27:14.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}觉得不错吧
+Dialogue: 0,0:27:15.76,0:27:19.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你喜欢这样被摸吗
+Dialogue: 0,0:27:24.12,0:27:26.45,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}还是这样呢
+Dialogue: 0,0:27:26.82,0:27:33.36,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我这样快点弄怎么样
+Dialogue: 0,0:27:35.48,0:27:38.27,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}身体抖动着呢
+Dialogue: 0,0:27:38.67,0:27:41.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}很喜欢这样吗
+Dialogue: 0,0:27:46.51,0:27:49.36,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}但是不仅仅是手
+Dialogue: 0,0:27:52.39,0:27:54.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样
+Dialogue: 0,0:27:57.82,0:28:03.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我的这里舔怎么样
+Dialogue: 0,0:28:22.82,0:28:25.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这么的爽吗
+Dialogue: 0,0:29:19.45,0:29:24.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}看起来非常爽呢
+Dialogue: 0,0:29:26.36,0:29:28.18,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}那么
+Dialogue: 0,0:29:28.67,0:29:31.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样的如何呢
+Dialogue: 0,0:30:09.12,0:30:13.51,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样夹看呢 爽吗
+Dialogue: 0,0:30:45.33,0:30:50.18,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}看起来很爽的脸呢
+Dialogue: 0,0:30:55.76,0:31:00.76,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样弄 你忍不住了吗
+Dialogue: 0,0:31:08.39,0:31:10.15,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}那么
+Dialogue: 0,0:31:11.24,0:31:17.51,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我来做更多好事情吧
+Dialogue: 0,0:31:41.21,0:31:43.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}往我这边
+Dialogue: 0,0:31:45.67,0:31:48.45,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}把你变热的肉棒
+Dialogue: 0,0:31:49.97,0:31:55.09,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}插进去 会更爽吧
+Dialogue: 0,0:32:24.61,0:32:26.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我插进去了
+Dialogue: 0,0:32:27.18,0:32:29.12,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}爽吗
+Dialogue: 0,0:33:30.15,0:33:31.88,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}怎么了
+Dialogue: 0,0:33:33.18,0:33:36.70,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的很爽吧
+Dialogue: 0,0:33:37.06,0:33:38.70,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}要射了吗
+Dialogue: 0,0:34:09.42,0:34:12.12,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的很爽呢
+Dialogue: 0,0:34:25.91,0:34:27.97,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}觉得怎么样啊
+Dialogue: 0,0:34:28.55,0:34:30.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}是不是很爽啊
+Dialogue: 0,0:34:58.48,0:35:02.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}觉得爽吗 真的好爽
+Dialogue: 0,0:35:05.33,0:35:12.09,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}还是还可以继续吧
+Dialogue: 0,0:35:50.36,0:35:52.42,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}已经变大了呢
+Dialogue: 0,0:35:53.67,0:35:55.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好爽啊
+Dialogue: 0,0:36:04.42,0:36:06.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}来吧
+Dialogue: 0,0:36:14.91,0:36:16.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}往我这边
+Dialogue: 0,0:36:20.94,0:36:22.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}插入肉棒
+Dialogue: 0,0:37:07.03,0:37:09.61,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}可以动吗
+Dialogue: 0,0:37:37.06,0:37:38.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}奶子
+Dialogue: 0,0:37:39.09,0:37:40.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}喜欢吗
+Dialogue: 0,0:37:43.70,0:37:46.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}想要摸吗
+Dialogue: 0,0:37:51.64,0:37:54.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}那摸吧
+Dialogue: 0,0:37:55.30,0:37:57.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}可以喔
+Dialogue: 0,0:38:23.15,0:38:25.15,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好爽啊
+Dialogue: 0,0:38:26.30,0:38:28.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,0:39:22.24,0:39:25.88,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}那换我来
+Dialogue: 0,0:39:26.18,0:39:28.12,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}让你舒服吧
+Dialogue: 0,0:39:36.58,0:39:38.15,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}来吧
+Dialogue: 0,0:41:06.33,0:41:08.27,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好爽啊 好爽啊
+Dialogue: 0,0:41:58.79,0:42:01.06,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}怎么样 好爽啊
+Dialogue: 0,0:42:01.30,0:42:03.06,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,0:42:09.30,0:42:11.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}继续吧
+Dialogue: 0,0:43:00.51,0:43:02.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我的奶子
+Dialogue: 0,0:43:03.88,0:43:05.70,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}想要被摸吗
+Dialogue: 0,0:43:09.82,0:43:11.88,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这么想摸吗
+Dialogue: 0,0:43:16.15,0:43:17.76,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}那么
+Dialogue: 0,0:43:19.06,0:43:21.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}可以摸呢
+Dialogue: 0,0:44:29.27,0:44:31.15,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}很喜欢呢
+Dialogue: 0,0:45:06.91,0:45:11.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不可以擅自动呢
+Dialogue: 0,0:45:12.97,0:45:14.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}对不起
+Dialogue: 0,0:46:28.21,0:46:30.45,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的是色情的脸呢
+Dialogue: 0,0:46:32.94,0:46:35.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不能忍受了吗
+Dialogue: 0,0:46:40.24,0:46:42.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}可以喔 直接射出
+Dialogue: 0,0:47:08.64,0:47:11.09,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}又射了呢
+Dialogue: 0,0:47:40.24,0:47:42.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}觉得爽吗
+Dialogue: 0,0:47:43.33,0:47:45.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}是的
+Dialogue: 0,0:47:47.58,0:47:55.58,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}下次一定要遵守时间过来喔
+Dialogue: 0,0:47:58.45,0:48:00.18,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好的
+Dialogue: 0,0:48:10.12,0:48:16.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}被我玩弄肉棒
+Dialogue: 0,0:48:17.45,0:48:21.51,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}就变成这样了吗
+Dialogue: 0,0:48:24.00,0:48:25.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}而且
+Dialogue: 0,0:48:27.12,0:48:31.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}已经很热了呢
+Dialogue: 0,0:48:35.58,0:48:37.45,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}还有 还有
+Dialogue: 0,0:48:39.12,0:48:48.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你还想要继续\N被我更多的 玩弄肉棒吧
+Dialogue: 0,0:48:49.64,0:48:51.45,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}想要的吧
+Dialogue: 0,0:48:57.39,0:48:59.06,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}那么
+Dialogue: 0,0:49:00.12,0:49:02.51,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不是这里
+Dialogue: 0,0:49:03.21,0:49:07.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}直接给你了哦
+Dialogue: 0,0:49:08.18,0:49:10.58,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我会给你摸的哦
+Dialogue: 0,0:49:15.09,0:49:16.97,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}脱了喔
+Dialogue: 0,0:49:26.00,0:49:28.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}果然呢
+Dialogue: 0,0:49:30.21,0:49:32.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}已经这么硬了呢
+Dialogue: 0,0:49:36.79,0:49:39.12,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}慢慢变热了呢
+Dialogue: 0,0:49:41.94,0:49:46.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}要用手给你弄吧
+Dialogue: 0,0:49:53.39,0:49:55.61,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}肉棒
+Dialogue: 0,0:49:56.03,0:49:59.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}是不是很爽啊
+Dialogue: 0,0:50:01.73,0:50:03.48,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}就是这样
+Dialogue: 0,0:50:08.58,0:50:15.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我要慢慢的 慢慢的
+Dialogue: 0,0:50:16.30,0:50:18.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}觉得爽吗
+Dialogue: 0,0:50:24.97,0:50:29.58,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}为了你更爽
+Dialogue: 0,0:50:39.88,0:50:41.58,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}用上唾液
+Dialogue: 0,0:50:43.94,0:50:45.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好湿啊
+Dialogue: 0,0:50:46.42,0:50:48.21,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}来给你弄哦
+Dialogue: 0,0:50:49.61,0:50:51.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这么
+Dialogue: 0,0:50:54.42,0:50:56.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}变得很大呢
+Dialogue: 0,0:51:00.03,0:51:02.09,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}肉棒
+Dialogue: 0,0:51:03.33,0:51:08.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}比刚才更爽吧
+Dialogue: 0,0:51:20.94,0:51:27.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}身体也一抖一抖呢
+Dialogue: 0,0:51:45.94,0:51:48.06,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不是手
+Dialogue: 0,0:51:52.79,0:51:57.70,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样会更爽吧
+Dialogue: 0,0:52:14.58,0:52:18.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}那么我来了哦
+Dialogue: 0,0:52:19.61,0:52:23.76,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你要更爽哦
+Dialogue: 0,0:52:37.09,0:52:41.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}用我的奶子将肉棒
+Dialogue: 0,0:52:42.73,0:52:44.45,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}夹了哦
+Dialogue: 0,0:53:03.24,0:53:11.61,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我的胸让你那么爽啊
+Dialogue: 0,0:53:18.36,0:53:20.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}还要啊
+Dialogue: 0,0:53:22.42,0:53:27.88,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}很色情的脸呢 现在是
+Dialogue: 0,0:53:36.82,0:53:41.48,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这么色情的脸
+Dialogue: 0,0:53:42.79,0:53:44.97,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}非常可爱喔
+Dialogue: 0,0:54:06.21,0:54:11.76,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这次你的肉棒
+Dialogue: 0,0:54:15.06,0:54:18.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}一枓一枓了呢
+Dialogue: 0,0:54:34.64,0:54:39.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}身体也在晃动呢
+Dialogue: 0,0:54:41.00,0:54:43.48,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这么爽啊
+Dialogue: 0,0:54:44.45,0:54:46.45,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好开心啊
+Dialogue: 0,0:55:07.51,0:55:09.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}怎么样啊
+Dialogue: 0,0:55:13.58,0:55:15.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}用奶子
+Dialogue: 0,0:55:16.21,0:55:18.61,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}很爽吧
+Dialogue: 0,0:55:19.88,0:55:22.42,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你要爽哦
+Dialogue: 0,0:55:41.39,0:55:43.27,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样的
+Dialogue: 0,0:55:45.09,0:55:46.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}怎么样啊
+Dialogue: 0,0:55:50.85,0:55:52.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}就这样
+Dialogue: 0,0:56:02.45,0:56:04.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}肉棒
+Dialogue: 0,0:56:11.30,0:56:15.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}在奶头上弄吧
+Dialogue: 0,0:56:16.82,0:56:18.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}喜欢吗
+Dialogue: 0,0:56:20.15,0:56:21.97,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}触碰到吧
+Dialogue: 0,0:56:24.48,0:56:26.48,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}跟刚才
+Dialogue: 0,0:56:27.97,0:56:33.06,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不一样的舒服
+Dialogue: 0,0:56:34.24,0:56:36.48,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好好尝试一下吧
+Dialogue: 0,0:56:58.33,0:57:00.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}就是这样
+Dialogue: 0,0:57:13.51,0:57:16.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}还会很爽吧
+Dialogue: 0,0:57:37.85,0:57:42.36,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}但是果然这样很爽吧
+Dialogue: 0,0:57:45.67,0:57:49.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}在奶子里面 变得舒服起来吧
+Dialogue: 0,0:58:07.82,0:58:12.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}被奶子用的舒服的话
+Dialogue: 0,0:58:12.79,0:58:19.12,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你可以直接射进去呢
+Dialogue: 0,0:58:40.09,0:58:43.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}又是这个脸啊
+Dialogue: 0,0:58:44.48,0:58:48.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不能忍受了吗
+Dialogue: 0,0:58:52.64,0:58:57.97,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}就要这样射在我的里面
+Dialogue: 0,0:58:59.48,0:59:00.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}射出吧
+Dialogue: 0,0:59:09.09,0:59:10.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}一抖一抖的
+Dialogue: 0,0:59:21.48,0:59:22.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好温暖啊
+Dialogue: 0,0:59:42.82,0:59:47.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}在奶子里面射出很多呢
+Dialogue: 0,0:59:53.61,0:59:58.97,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}但是还可以射出吧
+Dialogue: 0,1:00:00.18,1:00:03.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}继续射吧
+Dialogue: 0,1:00:10.18,1:00:12.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}跟刚刚一样 这样弄
+Dialogue: 0,1:00:15.18,1:00:16.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}用手
+Dialogue: 0,1:00:18.06,1:00:20.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}变爽了吧
+Dialogue: 0,1:00:26.33,1:00:28.51,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样
+Dialogue: 0,1:00:31.97,1:00:34.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}让你舒服
+Dialogue: 0,1:00:48.55,1:00:55.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}刚才才刚射呢 还是
+Dialogue: 0,1:00:56.82,1:01:00.42,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这么的硬呢
+Dialogue: 0,1:01:10.70,1:01:17.88,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}多给我射吧
+Dialogue: 0,1:01:18.97,1:01:20.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}射吧
+Dialogue: 0,1:01:24.45,1:01:28.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的很硬呢
+Dialogue: 0,1:01:28.58,1:01:30.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好硬啊
+Dialogue: 0,1:01:43.42,1:01:46.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}继续射哦
+Dialogue: 0,1:02:26.64,1:02:30.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}又射了呢
+Dialogue: 0,1:02:31.00,1:02:33.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}两次 连续射出呢
+Dialogue: 0,1:02:35.33,1:02:39.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}那么 觉得我的奶子
+Dialogue: 0,1:02:40.79,1:02:42.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}很舒服吗
+Dialogue: 0,1:02:47.70,1:02:57.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}那么 我再用奶子让你舒服喔
+Dialogue: 0,1:03:23.94,1:03:25.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}被我
+Dialogue: 0,1:03:27.48,1:03:32.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}用脚弄了哦
+Dialogue: 0,1:03:32.45,1:03:34.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}就发出这么色情的声音吗
+Dialogue: 0,1:03:36.91,1:03:40.45,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}是的 不好意思啊
+Dialogue: 0,1:03:50.88,1:03:53.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}害我不能专心了
+Dialogue: 0,1:04:05.79,1:04:07.58,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}脚怎么样啊
+Dialogue: 0,1:04:08.94,1:04:11.36,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}觉得爽吗
+Dialogue: 0,1:04:14.42,1:04:16.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}变态呢
+Dialogue: 0,1:04:22.97,1:04:25.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}变成这样了呢
+Dialogue: 0,1:04:27.67,1:04:29.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}变硬了呢
+Dialogue: 0,1:04:29.88,1:04:31.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你知道吗
+Dialogue: 0,1:04:34.70,1:04:36.15,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好棒啊
+Dialogue: 0,1:04:49.30,1:04:55.76,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}对变态的你 就要这样
+Dialogue: 0,1:05:13.79,1:05:17.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}是不是很爽啊
+Dialogue: 0,1:05:31.03,1:05:33.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}用脚
+Dialogue: 0,1:05:33.79,1:05:35.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这里呢
+Dialogue: 0,1:05:36.00,1:05:38.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}就变得这样了
+Dialogue: 0,1:05:44.09,1:05:47.42,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}是不是很敏感啊
+Dialogue: 0,1:05:51.82,1:05:56.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}是不是想要我给你摸啊
+Dialogue: 0,1:06:00.03,1:06:05.27,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}想要我摸的地方 就亮出来吧
+Dialogue: 0,1:06:19.85,1:06:22.06,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}解开了哦
+Dialogue: 0,1:06:27.79,1:06:32.36,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}肉棒想被摸吗
+Dialogue: 0,1:07:03.24,1:07:06.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}怎么样啊 乳头
+Dialogue: 0,1:07:08.03,1:07:10.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}被摸奶头
+Dialogue: 0,1:07:11.76,1:07:16.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}用脚这样摸呢
+Dialogue: 0,1:07:17.58,1:07:20.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}是不是很爽呢
+Dialogue: 0,1:07:21.79,1:07:23.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}看起来
+Dialogue: 0,1:07:24.94,1:07:26.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}相当的变态呢
+Dialogue: 0,1:07:32.70,1:07:34.42,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}怎么样啊
+Dialogue: 0,1:07:35.51,1:07:39.36,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}用脚怎么样啊
+Dialogue: 0,1:07:42.51,1:07:44.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}很爽吧
+Dialogue: 0,1:07:45.67,1:07:47.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}像这样
+Dialogue: 0,1:07:51.30,1:07:53.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}乳头
+Dialogue: 0,1:07:56.09,1:07:58.21,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}一边被舔着
+Dialogue: 0,1:08:05.94,1:08:07.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}喜欢吗
+Dialogue: 0,1:08:13.45,1:08:15.12,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}很爽吧
+Dialogue: 0,1:08:23.85,1:08:28.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}身体不断抖动呢
+Dialogue: 0,1:08:29.64,1:08:33.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}还是不只这样
+Dialogue: 0,1:08:34.18,1:08:36.18,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样
+Dialogue: 0,1:08:38.61,1:08:40.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}直接弄了哦
+Dialogue: 0,1:08:58.39,1:09:01.18,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}想要我摸吗
+Dialogue: 0,1:09:02.09,1:09:05.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了呢 变成这样了呢
+Dialogue: 0,1:09:09.18,1:09:10.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}变这样的
+Dialogue: 0,1:09:15.58,1:09:17.70,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}肉棒
+Dialogue: 0,1:09:26.03,1:09:28.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}喜欢被舔吗
+Dialogue: 0,1:09:29.15,1:09:32.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}等 等一下啊
+Dialogue: 0,1:09:37.33,1:09:42.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}但是你要忍受哦
+Dialogue: 0,1:09:43.15,1:09:45.09,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}用我的手
+Dialogue: 0,1:09:47.03,1:09:49.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我会让你爽的哦
+Dialogue: 0,1:09:54.51,1:09:56.27,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样弄
+Dialogue: 0,1:09:59.30,1:10:01.45,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了呢
+Dialogue: 0,1:10:05.30,1:10:07.88,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了 不行了呢
+Dialogue: 0,1:10:09.45,1:10:11.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了呢
+Dialogue: 0,1:10:14.15,1:10:15.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好爽啊
+Dialogue: 0,1:10:15.64,1:10:17.51,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:10:17.94,1:10:19.51,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:10:19.94,1:10:21.97,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}要射了呢
+Dialogue: 0,1:10:23.18,1:10:24.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}要射了呢
+Dialogue: 0,1:10:52.33,1:10:54.18,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}射了呢
+Dialogue: 0,1:10:55.91,1:10:59.42,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}但是还可以射吧
+Dialogue: 0,1:10:59.79,1:11:01.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好的
+Dialogue: 0,1:11:05.36,1:11:07.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样弄
+Dialogue: 0,1:11:10.91,1:11:13.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}等一下 等一下
+Dialogue: 0,1:11:20.09,1:11:22.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了呢
+Dialogue: 0,1:11:24.85,1:11:26.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好硬啊
+Dialogue: 0,1:11:27.39,1:11:31.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我不行了呢 变大了呢
+Dialogue: 0,1:11:32.09,1:11:35.18,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了 不行了呢
+Dialogue: 0,1:11:36.73,1:11:38.70,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了
+Dialogue: 0,1:11:39.61,1:11:41.97,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了 不好意思啊
+Dialogue: 0,1:11:42.82,1:11:44.18,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}要射了呢
+Dialogue: 0,1:11:45.00,1:11:47.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}爽吗 好棒啊
+Dialogue: 0,1:11:47.64,1:11:49.42,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}射吧
+Dialogue: 0,1:11:55.36,1:11:56.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了呢
+Dialogue: 0,1:11:57.03,1:11:59.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}要射了 要射了呢
+Dialogue: 0,1:12:00.18,1:12:01.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了 不行了呢
+Dialogue: 0,1:12:02.76,1:12:05.15,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}爽吗 不好意思
+Dialogue: 0,1:12:07.36,1:12:09.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的出来很多呢
+Dialogue: 0,1:12:18.39,1:12:21.61,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了呢 好爽啊
+Dialogue: 0,1:12:23.18,1:12:26.48,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好厉害呢 最后的射精
+Dialogue: 0,1:12:26.73,1:12:28.48,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}射出很多呢
+Dialogue: 0,1:12:31.12,1:12:35.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你还会射的吧
+Dialogue: 0,1:12:57.67,1:13:01.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}又变硬了呢
+Dialogue: 0,1:13:02.39,1:13:08.58,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你也要让我爽哦
+Dialogue: 0,1:13:09.03,1:13:10.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}来吧
+Dialogue: 0,1:13:11.79,1:13:13.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好啊
+Dialogue: 0,1:13:22.27,1:13:24.97,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的很热呢
+Dialogue: 0,1:13:34.21,1:13:36.09,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}来吧
+Dialogue: 0,1:13:46.64,1:13:48.48,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}进来吧
+Dialogue: 0,1:13:49.61,1:13:52.15,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}可以进去吗
+Dialogue: 0,1:13:53.12,1:13:54.58,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}来了哦
+Dialogue: 0,1:13:54.94,1:13:56.58,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这边吗
+Dialogue: 0,1:14:01.61,1:14:03.48,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样吗
+Dialogue: 0,1:14:09.70,1:14:11.61,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好棒啊
+Dialogue: 0,1:14:15.70,1:14:18.27,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}进来了
+Dialogue: 0,1:14:26.21,1:14:28.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:14:29.51,1:14:32.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}肉棒插得好深啊
+Dialogue: 0,1:14:40.64,1:14:42.27,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好爽啊
+Dialogue: 0,1:14:45.91,1:14:50.21,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的很硬呢
+Dialogue: 0,1:15:03.06,1:15:05.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}深处
+Dialogue: 0,1:15:05.27,1:15:07.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}快点弄到里面啊
+Dialogue: 0,1:15:18.58,1:15:20.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}要高潮了 高潮了
+Dialogue: 0,1:16:06.94,1:16:09.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的 真的好爽啊
+Dialogue: 0,1:16:23.82,1:16:31.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好爽啊\N从这里来 好棒啊
+Dialogue: 0,1:16:31.36,1:16:33.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}前面来吧 好
+Dialogue: 0,1:16:33.58,1:16:35.36,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好
+Dialogue: 0,1:16:41.18,1:16:43.51,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}哪边
+Dialogue: 0,1:16:44.39,1:16:45.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这边
+Dialogue: 0,1:16:55.64,1:16:57.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}大量插入了
+Dialogue: 0,1:17:02.03,1:17:05.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}插得好深啊
+Dialogue: 0,1:17:06.03,1:17:07.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}插进来啊
+Dialogue: 0,1:17:11.12,1:17:13.21,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}脱了吧
+Dialogue: 0,1:17:34.39,1:17:36.58,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好爽啊 快点啊
+Dialogue: 0,1:17:55.88,1:17:57.58,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}要高潮了
+Dialogue: 0,1:18:12.55,1:18:16.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊 好爽啊
+Dialogue: 0,1:18:42.73,1:18:46.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我想换个姿势 换我来动
+Dialogue: 0,1:18:46.61,1:18:50.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你到下面去 嗯
+Dialogue: 0,1:19:07.51,1:19:10.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}给你看看我的奶
+Dialogue: 0,1:19:11.18,1:19:12.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}看啊
+Dialogue: 0,1:19:30.30,1:19:32.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了 好爽啊
+Dialogue: 0,1:19:35.55,1:19:37.21,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}爽吗
+Dialogue: 0,1:19:46.33,1:19:48.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:19:49.06,1:19:51.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}动了喔
+Dialogue: 0,1:19:58.27,1:20:00.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:20:03.03,1:20:05.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:20:29.18,1:20:31.09,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了呢
+Dialogue: 0,1:20:31.33,1:20:33.06,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:20:46.85,1:20:49.12,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好爽啊
+Dialogue: 0,1:20:54.00,1:20:58.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}让我来动
+Dialogue: 0,1:21:03.48,1:21:05.97,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:21:08.61,1:21:11.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好爽啊
+Dialogue: 0,1:21:19.00,1:21:21.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}怎么样啊
+Dialogue: 0,1:21:22.55,1:21:25.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样摩擦
+Dialogue: 0,1:21:25.58,1:21:27.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好爽啊
+Dialogue: 0,1:21:31.61,1:21:33.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:21:38.06,1:21:41.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}插到好舒服的地方啊
+Dialogue: 0,1:21:45.73,1:21:48.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了 不行了呢
+Dialogue: 0,1:22:34.70,1:22:36.76,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好爽啊
+Dialogue: 0,1:22:42.36,1:22:45.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽
+Dialogue: 0,1:22:51.09,1:22:53.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了 不行了呢
+Dialogue: 0,1:22:55.94,1:22:57.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了呢
+Dialogue: 0,1:22:58.03,1:23:00.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的不行了呢
+Dialogue: 0,1:23:03.61,1:23:05.48,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了呢
+Dialogue: 0,1:23:08.33,1:23:12.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了 要射了 射了
+Dialogue: 0,1:23:12.12,1:23:14.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}射吧
+Dialogue: 0,1:23:14.61,1:23:16.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}要射了
+Dialogue: 0,1:23:34.48,1:23:37.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的射了很多呢
+Dialogue: 0,1:23:38.09,1:23:39.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了呢
+Dialogue: 0,1:24:01.67,1:24:03.21,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你看
+Dialogue: 0,1:24:03.67,1:24:07.42,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:24:28.24,1:24:32.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你觉得爽吗
+Dialogue: 0,1:25:13.88,1:25:15.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不要出声哦
+Dialogue: 0,1:25:16.85,1:25:21.88,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}可能会有别人来喔
+Dialogue: 0,1:25:23.64,1:25:25.88,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你摸就会射哦
+Dialogue: 0,1:25:29.76,1:25:31.97,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}忍住吧
+Dialogue: 0,1:25:52.76,1:25:54.42,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}怎么样啊
+Dialogue: 0,1:25:59.09,1:26:01.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我要亲你哦
+Dialogue: 0,1:26:06.00,1:26:09.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你要干什么啊
+Dialogue: 0,1:26:45.70,1:26:49.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不好意思 会被听到喔
+Dialogue: 0,1:27:03.58,1:27:06.12,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我给你解开
+Dialogue: 0,1:27:08.64,1:27:10.70,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}放我过吧
+Dialogue: 0,1:27:13.45,1:27:15.09,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}来了哦
+Dialogue: 0,1:27:32.67,1:27:35.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我的奶头有感觉了
+Dialogue: 0,1:27:37.12,1:27:43.36,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这么爱说话的话
+Dialogue: 0,1:27:44.55,1:27:47.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}就把你嘴巴堵住喔
+Dialogue: 0,1:27:54.24,1:27:56.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你要干什么啊
+Dialogue: 0,1:27:57.15,1:27:59.21,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你话太多了
+Dialogue: 0,1:28:11.30,1:28:13.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}要射了呢
+Dialogue: 0,1:28:14.64,1:28:16.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}很棒吧
+Dialogue: 0,1:28:29.88,1:28:31.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好棒啊
+Dialogue: 0,1:28:32.73,1:28:34.27,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这里爽吗
+Dialogue: 0,1:28:35.18,1:28:38.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}都变成这样了
+Dialogue: 0,1:28:39.76,1:28:43.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真不好意思啊 这里吗
+Dialogue: 0,1:28:43.39,1:28:45.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这边变得好大
+Dialogue: 0,1:28:51.36,1:28:53.06,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行啊
+Dialogue: 0,1:29:11.27,1:29:12.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我真的不行了呢
+Dialogue: 0,1:29:21.24,1:29:22.97,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}都变成这样了
+Dialogue: 0,1:29:44.51,1:29:46.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的变大了呢
+Dialogue: 0,1:29:47.12,1:29:49.06,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不好意思
+Dialogue: 0,1:29:52.67,1:29:55.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}要射了呢 还要吗
+Dialogue: 0,1:30:01.12,1:30:02.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了
+Dialogue: 0,1:30:03.97,1:30:06.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不要动了
+Dialogue: 0,1:30:12.12,1:30:14.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了呢
+Dialogue: 0,1:30:55.88,1:31:00.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你射了这么多呢
+Dialogue: 0,1:31:01.48,1:31:03.70,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不好意思
+Dialogue: 0,1:31:04.45,1:31:07.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你还会射吧
+Dialogue: 0,1:31:19.79,1:31:21.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我不行了呢
+Dialogue: 0,1:31:26.82,1:31:29.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}原谅我吧
+Dialogue: 0,1:31:30.33,1:31:35.61,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}但是肉棒很硬呢
+Dialogue: 0,1:31:36.33,1:31:39.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:31:54.91,1:31:57.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}才刚射出而已呢
+Dialogue: 0,1:31:58.09,1:32:03.76,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}身体跟肉棒都很硬呢
+Dialogue: 0,1:32:04.03,1:32:06.15,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}在这里面
+Dialogue: 0,1:32:07.33,1:32:09.45,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}装了很多精液吧
+Dialogue: 0,1:32:11.39,1:32:13.45,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你在说什么啊
+Dialogue: 0,1:32:14.30,1:32:17.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}还会射很多吧
+Dialogue: 0,1:32:41.09,1:32:42.45,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的
+Dialogue: 0,1:32:44.82,1:32:46.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽
+Dialogue: 0,1:33:10.42,1:33:12.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:33:15.76,1:33:17.12,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不好意思
+Dialogue: 0,1:33:36.51,1:33:39.27,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你又射了呢
+Dialogue: 0,1:33:45.03,1:33:47.36,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}又这 这么的多
+Dialogue: 0,1:33:50.39,1:33:52.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}觉得爽吗
+Dialogue: 0,1:33:55.70,1:34:01.36,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}但是还这么的大
+Dialogue: 0,1:34:03.82,1:34:05.51,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}还会
+Dialogue: 0,1:34:06.64,1:34:09.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}大量射出吧
+Dialogue: 0,1:34:53.36,1:34:55.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你觉得爽吗
+Dialogue: 0,1:35:37.97,1:35:41.27,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}想要摸吗 不是
+Dialogue: 0,1:35:43.64,1:35:46.58,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}想要摸 来吧
+Dialogue: 0,1:35:47.91,1:35:49.61,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这里是图书馆哦
+Dialogue: 0,1:35:50.94,1:35:53.36,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽
+Dialogue: 0,1:35:54.51,1:35:56.18,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}觉得爽吗
+Dialogue: 0,1:36:12.33,1:36:14.15,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样呢
+Dialogue: 0,1:36:17.58,1:36:19.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好好摸吧
+Dialogue: 0,1:36:35.39,1:36:37.61,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好棒
+Dialogue: 0,1:36:40.09,1:36:42.70,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不断揉着呢
+Dialogue: 0,1:36:43.33,1:36:45.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不好意思
+Dialogue: 0,1:37:05.70,1:37:08.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你那么想要啊
+Dialogue: 0,1:37:08.97,1:37:10.97,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}想要吗
+Dialogue: 0,1:37:12.12,1:37:13.88,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}来吧
+Dialogue: 0,1:37:22.42,1:37:23.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}摸吧
+Dialogue: 0,1:37:38.70,1:37:41.18,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:37:49.15,1:37:51.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你还想要吗
+Dialogue: 0,1:37:52.97,1:37:56.36,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我来给你舔啊
+Dialogue: 0,1:37:59.82,1:38:01.88,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这里爽吗
+Dialogue: 0,1:38:04.51,1:38:08.12,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我会让你爽的哦
+Dialogue: 0,1:38:18.39,1:38:19.70,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样摸
+Dialogue: 0,1:38:23.42,1:38:26.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}喜欢被这样弄吗
+Dialogue: 0,1:39:04.30,1:39:08.51,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你觉得怎么样啊
+Dialogue: 0,1:39:09.21,1:39:11.09,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}很爽吧
+Dialogue: 0,1:39:19.64,1:39:26.21,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你想插进去吗
+Dialogue: 0,1:39:29.03,1:39:34.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样弄的话我又要
+Dialogue: 0,1:39:36.21,1:39:38.09,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}来吧
+Dialogue: 0,1:39:38.67,1:39:40.48,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}爽吗
+Dialogue: 0,1:39:43.39,1:39:48.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你还可以忍住吧
+Dialogue: 0,1:39:51.45,1:39:54.76,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样弄 真的不行
+Dialogue: 0,1:39:56.82,1:40:01.27,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你能忍受吗
+Dialogue: 0,1:40:21.30,1:40:24.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}被你看着 感觉要射出了
+Dialogue: 0,1:40:44.67,1:40:46.97,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}原谅我吧
+Dialogue: 0,1:40:55.06,1:40:57.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不好意思
+Dialogue: 0,1:41:08.70,1:41:10.42,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}又出来了
+Dialogue: 0,1:41:11.27,1:41:13.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}又出来了呢
+Dialogue: 0,1:41:16.58,1:41:18.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这么多啊
+Dialogue: 0,1:41:21.00,1:41:25.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的射了很多 对不起
+Dialogue: 0,1:41:48.15,1:41:51.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你那么爽啊
+Dialogue: 0,1:41:54.27,1:41:56.06,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我变得好奇怪
+Dialogue: 0,1:41:57.24,1:42:01.73,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}那也让我舒服吧
+Dialogue: 0,1:42:36.67,1:42:39.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}可以摸吗
+Dialogue: 0,1:42:42.03,1:42:45.15,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}大量让我舒服
+Dialogue: 0,1:43:39.27,1:43:42.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这边也要
+Dialogue: 0,1:43:46.85,1:43:48.61,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}来吧
+Dialogue: 0,1:43:49.91,1:43:51.82,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}等一下
+Dialogue: 0,1:43:53.00,1:43:54.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}要我舔吗
+Dialogue: 0,1:43:57.24,1:43:59.51,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}想要你帮我舔
+Dialogue: 0,1:43:59.85,1:44:01.51,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}过来吧
+Dialogue: 0,1:44:35.94,1:44:38.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:44:48.91,1:44:52.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}现在在图书馆
+Dialogue: 0,1:44:53.70,1:44:55.15,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:44:55.97,1:44:59.58,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}像这样
+Dialogue: 0,1:44:59.76,1:45:01.58,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}肉穴湿了
+Dialogue: 0,1:45:23.85,1:45:25.51,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}怎么样啊
+Dialogue: 0,1:45:50.51,1:45:52.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好热啊
+Dialogue: 0,1:45:54.24,1:45:56.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}可以摸吗
+Dialogue: 0,1:46:21.85,1:46:24.70,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}手指进来了
+Dialogue: 0,1:46:27.79,1:46:31.51,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}下面真的很湿呢
+Dialogue: 0,1:46:32.70,1:46:35.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:46:46.58,1:46:49.12,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好爽啊
+Dialogue: 0,1:46:49.82,1:46:52.45,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好爽啊 好爽啊
+Dialogue: 0,1:46:55.24,1:46:57.48,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:47:22.21,1:47:27.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的很爽呢 不行了
+Dialogue: 0,1:47:28.24,1:47:30.76,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我真的很爽呢
+Dialogue: 0,1:47:37.67,1:47:43.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你舔的我好爽啊
+Dialogue: 0,1:47:52.45,1:47:58.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}奶子也要继续摸
+Dialogue: 0,1:48:22.03,1:48:23.76,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}要高潮了 高潮了
+Dialogue: 0,1:48:31.09,1:48:32.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你发出声音了呢
+Dialogue: 0,1:48:37.21,1:48:40.42,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}还想要变得更舒服
+Dialogue: 0,1:48:41.30,1:48:44.48,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}下次我会让你更爽
+Dialogue: 0,1:48:45.09,1:48:48.18,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}继续吧
+Dialogue: 0,1:48:49.24,1:48:51.45,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}来吧
+Dialogue: 0,1:49:08.36,1:49:09.94,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}这样
+Dialogue: 0,1:49:20.24,1:49:22.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好棒啊
+Dialogue: 0,1:49:23.06,1:49:25.12,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}会让你爽的
+Dialogue: 0,1:49:58.21,1:50:01.09,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}插得很深呢
+Dialogue: 0,1:50:13.24,1:50:15.18,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:50:36.36,1:50:39.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了 要射了
+Dialogue: 0,1:50:39.97,1:50:42.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}在里面一抖一抖的
+Dialogue: 0,1:50:42.67,1:50:45.27,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的很爽呢
+Dialogue: 0,1:51:11.24,1:51:15.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊 我不行了
+Dialogue: 0,1:51:37.76,1:51:41.97,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}插进去好爽啊
+Dialogue: 0,1:51:55.91,1:51:57.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}给我舔吧
+Dialogue: 0,1:51:58.39,1:52:00.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}来舔啊
+Dialogue: 0,1:52:14.91,1:52:17.18,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好棒啊
+Dialogue: 0,1:52:25.06,1:52:26.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:52:33.39,1:52:34.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好棒啊
+Dialogue: 0,1:52:44.48,1:52:48.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}从后面来吧
+Dialogue: 0,1:52:49.06,1:52:51.42,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好啊 从后面来
+Dialogue: 0,1:53:01.09,1:53:03.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}进来吧
+Dialogue: 0,1:53:19.42,1:53:22.21,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:53:37.88,1:53:40.21,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的很爽啊
+Dialogue: 0,1:53:59.55,1:54:03.58,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}快点啊 我好爽啊
+Dialogue: 0,1:54:12.39,1:54:14.88,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的不行了呢
+Dialogue: 0,1:54:17.30,1:54:19.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:54:20.12,1:54:22.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好爽啊
+Dialogue: 0,1:54:58.15,1:55:01.21,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊 好爽啊
+Dialogue: 0,1:55:02.64,1:55:04.55,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好棒啊
+Dialogue: 0,1:55:38.76,1:55:46.61,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你要全部射到我里面啊
+Dialogue: 0,1:55:47.39,1:55:53.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}可以吗\N射到里面很爽呢
+Dialogue: 0,1:56:03.27,1:56:04.88,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}要射了呢
+Dialogue: 0,1:56:06.24,1:56:07.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}好爽啊 要射了
+Dialogue: 0,1:56:34.73,1:56:36.67,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:56:37.94,1:56:40.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽
+Dialogue: 0,1:56:42.61,1:56:47.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}你还可以射吧
+Dialogue: 0,1:56:50.67,1:56:54.33,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}来吧 我还想射呢
+Dialogue: 0,1:56:55.30,1:56:58.09,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}大量舒服吧
+Dialogue: 0,1:57:17.97,1:57:20.30,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:57:21.00,1:57:23.09,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}又变得好舒服阿
+Dialogue: 0,1:57:26.58,1:57:29.03,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:57:35.42,1:57:37.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:57:51.94,1:57:54.06,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:58:12.85,1:58:14.64,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}不行了呢
+Dialogue: 0,1:58:26.82,1:58:30.24,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}慢慢插 好爽啊
+Dialogue: 0,1:58:56.91,1:58:58.70,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:59:07.30,1:59:09.58,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我真的好爽啊
+Dialogue: 0,1:59:22.94,1:59:24.91,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}要射了呢
+Dialogue: 0,1:59:26.24,1:59:29.00,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}射的时候 射进里面
+Dialogue: 0,1:59:41.15,1:59:42.79,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}真的好爽啊
+Dialogue: 0,1:59:54.73,1:59:58.39,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}请你看着这边
+Dialogue: 0,2:00:26.64,2:00:34.85,Default,,0000,0000,0010,,{\fnSTKaiti\fs24\b1}我们再做爽的事情吧
+
+
